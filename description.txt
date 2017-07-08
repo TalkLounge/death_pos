@@ -1,0 +1,5 @@
+-- clientmods/death_pos/description.txt
+-- =================
+-- See README.txt for licensing and other information.
+
+With this mod you can see your last 5 death positions.
