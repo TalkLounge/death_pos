@@ -45,7 +45,7 @@ minetest.register_chatcommand("death_pos", {
       minetest.display_chat_message("Fifth death position: ".. bones_pos5)
       end
       if bones_pos4 ~= "" then
-      minetest.display_chat_message("Forth death position: ".. bones_pos4)
+      minetest.display_chat_message("Fourth death position: ".. bones_pos4)
       end
       if bones_pos3 ~= "" then
         minetest.display_chat_message("Third last death position: ".. bones_pos3)
